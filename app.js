@@ -5,3 +5,4 @@ class ProjectInput {
         this.hostElement = document.getElementById('app');
     }
 }
+//# sourceMappingURL=app.js.map
